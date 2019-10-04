@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/01 19:30:26.000.157,=C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 19:40:44.000.313,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\arthu\OneDrive - Etec Centro Paula Souza\Projetos\Delphi\Divisores\untDivisores.pas</Transaction>
+    <Transaction>2019/10/01 19:40:44.000.313,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\arthu\OneDrive - Etec Centro Paula Souza\Projetos\Delphi\Divisores\untDivisores.dfm</Transaction>
+    <Transaction>2019/10/01 19:40:49.000.846,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\arthu\OneDrive - Etec Centro Paula Souza\Projetos\Delphi\Divisores\Divisores.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
